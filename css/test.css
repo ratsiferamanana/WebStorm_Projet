@@ -1,0 +1,49 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 70%;
+  height: 75%;
+  border: 2px solid black;
+  gap: 6vh;
+
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+#titre{
+  font-size: 3rem;
+  font-weight: bold;
+  color: brown;
+}
+#ariary{
+  font-size: 30px;
+  font-weight: bold;
+  color: brown;
+}
+#euro{
+  font-size: 30px;
+  font-weight: bold;
+  color: brown;
+}
+#label1{
+  font-size: 3rem;
+  color: #b3d4fc;
+}
+#lagel2{
+  font-size: 3rem;
+  color: #b3d4fc;
+}
+#touche{
+  font-size: 1.5rem;
+  background-color: #b3d4fc;
+
+}
+#efface{
+  font-size: 1.5rem;
+  background-color: #b3d4fc;
+}
